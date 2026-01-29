@@ -12,8 +12,8 @@
 </h3>
 
 <div align="center">
-  
-  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat)
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=SASHANK_REDDY2004&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 </div>
