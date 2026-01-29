@@ -3,8 +3,8 @@
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#5D8BF4;">Ayush Kumar</span></h1>
-<h3 align="center"> Full Stack Web Developer | Open Source Contributor | Continuous Learner </h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#5D8BF4;">Sashank Reddy Chintakunta</span></h1>
+<h3 align="center"> Cloud Engineer | Open Source Contributor | Continuous Learner </h3>
 
 
 <h3 align="center">
